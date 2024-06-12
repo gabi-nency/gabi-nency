@@ -1,16 +1,19 @@
-## Hi there 👋
+## Seja bem vindo(a) ao meu perfil ☀️
 
-<!--
-**gabi-nency/gabi-nency** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gabriela Nency
 
-Here are some ideas to get you started:
+- Estou estudando na escola Vitor Meireles;
+- Estou me desenvolvendo na linguagem JavaScript;
+- Estou usando esse espaço para compartilhar meus projetos;
+- Comecei no Alura esse ano;
+- Gosto de programação, porém tenho dificuldades;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### se for entrar em contato comigo, utilize:
+
+  0000113315704xsp@al.educacao.sp.gov.br
+
+  ➮ @gabi_nency
+
+  ![](https://tenor.com/pt-BR/view/wazowski-mike-mike-sulivan-meme-monster-inc-gif-19634164)
+  
+  
