@@ -14,6 +14,8 @@ Meu nome é Gabriela Nency
 
   ➮ @gabi_nency
 
-  ![](https://tenor.com/pt-BR/view/wazowski-mike-mike-sulivan-meme-monster-inc-gif-19634164) 
+   ![](https://teno(r.com/pt-BR/view/wazowski-mike-mike-sulivan-meme-monster-inc-gif-19634164)
+  
+
   
   
